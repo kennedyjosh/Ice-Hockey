@@ -48,7 +48,7 @@ Version 3
 Version 4
 	V 4.0
 		- added nets
-		- scoring is now possible, although there is now way to keep track or win	
+		- scoring is now possible, although there is no way to keep track or win	
 	V 4.1
 		- tentative menu added
 		- rearranging of file structure
@@ -72,7 +72,7 @@ Version 5
 	V 5.1
 		- a lot of bugs were squashed, including "huge bug" from V5.0
 		- computer is now a somewhat functional AI, although sometimes is prone to seizures
-		-main menu optimizations
+		- main menu optimizations
 	V 5.2
 		- added rules page, although no text is displayed on it
 		- created fluid transitions through the menu system
@@ -84,6 +84,8 @@ Version 5
 		- need to fix net collisions!!
 		- add pause menu
 		- add rules, controls buttons to main menu
+		- implement more realistic physics or vastly improve current physics
+		- fix puck drop awkwardness
 
 	
 

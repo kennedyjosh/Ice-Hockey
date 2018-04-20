@@ -4,7 +4,7 @@ Hockey Game in Python using Pygame
 by: Josh Kennedy
 I can be reached by email at: jkennedy@suffolk.edu
 
-This version was released on May 2017
+This version was released during May 2017
 '''
 import sys, game, menu
 
