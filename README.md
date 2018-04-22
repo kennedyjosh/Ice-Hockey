@@ -1,4 +1,4 @@
-# Ice-Hockey
+# Ice Hockey
 
 Ice hockey in Python 2.7 using Pygame.
 
